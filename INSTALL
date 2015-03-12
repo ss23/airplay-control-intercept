@@ -1,0 +1,10 @@
+Requirements
+============
+
+Python 2 with scapy
+PHP with composer
+
+Instructions
+============
+Put your webroot somewhere fancy, edit index.php to suit your needs. Run composer install.
+Make the airplay-sniff.py run on boot.
